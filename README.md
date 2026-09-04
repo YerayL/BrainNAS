@@ -76,7 +76,7 @@ $$
 \begin{cases} 
 \textbf{Hadamard Product}\,(c_0): & \mathbf{C} = \mathbf{T}_i \odot \mathbf{T}_j, \\
 \textbf{Add}\,(c_1): & \mathbf{C} = \mathbf{T}_i + \mathbf{T}_j, \\
-\textbf{Concat \& Project}\,(c_2): & \mathbf{C} = [\mathbf{T}_i \,||\, \mathbf{T}_j] \mathbf{W}_{proj}.
+\textbf{Concat and Project}\,(c_2): & \mathbf{C} = [\mathbf{T}_i \,||\, \mathbf{T}_j] \mathbf{W}_{proj}.
 \end{cases}
 $$
 
